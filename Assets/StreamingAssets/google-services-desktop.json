@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769730603442",
+    "project_id": "mystic-hustle-9e9fa",
+    "storage_bucket": "mystic-hustle-9e9fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769730603442:android:32f23387003b5d2a931cab",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MysticHustle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiKYk49VmPKnG0C0-ffFCZke7riMs9JA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
